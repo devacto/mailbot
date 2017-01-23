@@ -1,2 +1,2 @@
 # mailbot
-Mailbot using Rails
+Mailbot using Rails 5.
