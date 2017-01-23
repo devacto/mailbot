@@ -1,0 +1,2 @@
+# mailbot
+Mailbot using Rails
